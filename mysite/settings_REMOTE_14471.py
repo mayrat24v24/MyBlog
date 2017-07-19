@@ -25,11 +25,7 @@ SECRET_KEY = 'zn*+d^v(1#c87jundfbcx4*=b8&a%se0x#ov^4i9!geb!#w(sz'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-<<<<<<< HEAD
-ALLOWED_HOSTS = ['127.0.0.1','mayrat24v24.pythonanywhere.com']
-=======
 ALLOWED_HOSTS = ['127.0.0.1', 'mayrat24v24.pythonanywhere.com']
->>>>>>> 4419137dd773edf8fdcec23300a9e5437ba1d900
 
 
 # Application definition
